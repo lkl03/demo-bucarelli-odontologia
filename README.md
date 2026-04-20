@@ -1,2 +1,7 @@
-# demo-bucarelli-odontologia
-Demo web para Bucarelli Odontología — diseñada por eterlab.
+# Bucarelli Odontología
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
